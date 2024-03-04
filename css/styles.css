@@ -47,7 +47,13 @@ body {
 
 .language-level{
 	background-color: #F0F3FF;
+	border-color: #F0F3FF;
 	box-shadow: #070F2B;
+}
+
+.language-progress{
+	background-color: aqua;
+
 }
 /* Styles for contact icons */
 
