@@ -45,6 +45,10 @@ body {
 	padding-left: 1em;
 }
 
+.language-level{
+	background-color: #F0F3FF;
+	box-shadow: #070F2B;
+}
 /* Styles for contact icons */
 
 .contact-icon {
