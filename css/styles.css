@@ -48,6 +48,8 @@ body {
 
 .language-progress {
 	background-color: #070F2B;
+	.custom-font {
+		font-family: 'Roboto', sans-serif;
 }
 
 .contact-icon {
