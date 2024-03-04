@@ -50,9 +50,11 @@ body {
 	background-color: #070F2B;
 	.custom-font {
 		font-family: 'Roboto', sans-serif;
+
 }
 
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
 }
