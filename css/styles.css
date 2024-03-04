@@ -16,6 +16,12 @@ body {
     background-color: #DAD4B5;
 	color: #952323;
 
+	.resume-header {
+		background-image: linear-gradient(to right, #952205, #ca956d);
+		color: #fff; /* Text color on the gradient background */
+		/* Add any additional styles */
+	}
+
 }
 
 .resume-main {
