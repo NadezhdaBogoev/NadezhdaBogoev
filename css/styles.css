@@ -10,6 +10,9 @@ body {
 	background-color: #F2E8C6;
 }
 
+.red-text {
+	color: rgb(71, 51, 40);
+  }
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
