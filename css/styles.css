@@ -13,7 +13,7 @@ body {
 }
 
 .red-text {
-	color: #091339;
+	color: #09174f;
   }
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
@@ -44,7 +44,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #070F2B;
+	color: #091540;
 }
 
 .biography-details li, .skill-list li {
